@@ -6,6 +6,7 @@ summer_olympics_2 = {:Atlanta => "1996", :Sydney => "2000",
  summer_olympics_2.each do |x, y|
    puts " The #{y} summer olympics took place in #{x}."
   end
+  upcased_cities = summer_olympics_2
   
   
    
