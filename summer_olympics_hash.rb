@@ -1,7 +1,7 @@
-summer_olympics_2 = {:Atlanta => 1996, :Sydney => 2000,       
- :Athens  => 2004,       
- :Beijing => 2008,       
- :London  => 2012,  
+summer_olympics_2 = {:Atlanta => "1996", :Sydney => "2000",       
+ :Athens  => "2004",       
+ :Beijing => "2008",       
+ :London  => "2012",  
  }
  summer_olympics_2.each do |x, y|
    puts " The #{y} summer olympics took place in #{x}."
