@@ -3,9 +3,9 @@ summer_olympics_2 = {:Atlanta => 1996, :Sydney => 2000,
  :Beijing => 2008,       
  :London  => 2012,  
  }
- summer_olympics_2.each do 
-   puts summer_olympics_2
-   ""
+ summer_olympics_2.each do |x, y|
+   puts ""
+   
 def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
 end
